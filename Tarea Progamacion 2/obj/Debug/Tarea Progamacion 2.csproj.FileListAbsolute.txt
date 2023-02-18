@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\bin\Debug\Tarea Progamacion 2.exe.config
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\bin\Debug\Tarea Progamacion 2.exe
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\bin\Debug\Tarea Progamacion 2.pdb
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\obj\Debug\Tarea Progamacion 2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\obj\Debug\Tarea Progamacion 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\obj\Debug\Tarea Progamacion 2.exe
+C:\Users\Usuario\Documents\Carpeta C#\Tarea Progamacion 2\Tarea Progamacion 2\obj\Debug\Tarea Progamacion 2.pdb
